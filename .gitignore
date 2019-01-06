@@ -1,0 +1,6 @@
+.DS_Store
+test/
+node_modules/
+build/
+.vscode/
+*.db
