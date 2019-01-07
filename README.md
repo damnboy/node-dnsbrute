@@ -148,3 +148,7 @@ ns2.music.189.cn.       28800   IN      A       125.88.75.134
 # TODO
 
 * Add TCP Support
+
+# REMAEK
+
+if you have any problem or if you got bugs with this lib, please contact me with github links in package.json ;)
